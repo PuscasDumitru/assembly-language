@@ -2,6 +2,12 @@
 
 NASM version 2.14.02
 
+#### Available Console Commands
+- help
+- about
+- count
+- box
+
 #### Commands
 
 ```bash
